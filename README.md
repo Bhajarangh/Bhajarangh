@@ -54,4 +54,4 @@ A Java-based console application that lets users input student details, validate
 ## 📫 Connect with Me
 
 - 📧 Email: bannuannapaneni3789@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/annapaneni-bhajarangh)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhajarangh-annapaneni/)
