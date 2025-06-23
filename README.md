@@ -128,11 +128,6 @@ A console-based Java application that automates student result processing. It ta
     - Quantitative Aptitude: 16/20  
     - Logical Reasoning: 14/20
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhajarangh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhajarangh&layout=compact&theme=radical)
-
 
 ## 📫 Connect with Me
 
