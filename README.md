@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhajarangh Annapaneni
 
-I'm a passionate **Computer Science Engineering student** with a strong foundation in **Java Full Stack Development**. I enjoy building real-world applications that solve meaningful problems and reflect my growth as a developer.
+I'm a passionate **Computer Science Engineering student** with a strong foundation in **Java and python**. I enjoy building real-world applications that solve meaningful problems and reflect my growth as a developer.
 
 ## 🎓 Education
 
