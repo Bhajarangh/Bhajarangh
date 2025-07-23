@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhajarangh Annapaneni
 
-I'm a passionate **Computer Science Engineering student** with a strong foundation in **Java and python**. I enjoy building real-world applications that solve meaningful problems and reflect my growth as a developer.
+I'm Currently Working as an **Associate Software Engineer** with a strong foundation in **Java, Dart and python**. I enjoy building real-world applications that solve meaningful problems and reflect my growth as a developer.
 
 ## 🎓 Education
 
@@ -12,7 +12,7 @@ Computer Science and Engineering
 
 ## 🔧 Tech Stack
 
-- **Languages:** Java, Python, SQL, HTML, CSS, JavaScript  
+- **Languages:** Java, Dart, Python, SQL, HTML, CSS, JavaScript  
 - **Backend:** Spring Boot, Hibernate (JPA), REST APIs  
 - **Frontend:** Thymeleaf, Bootstrap, HTML/CSS  
 - **Database:** MySQL  
