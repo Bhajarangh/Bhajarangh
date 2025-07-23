@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bhajarangh Annapaneni
 
-I'm Currently Working as an **Associate Software Engineer** with a strong foundation in **Java, Dart and python**. I enjoy building real-world applications that solve meaningful problems and reflect my growth as a developer.
+Currently working as an **Associate Software Engineer** with hands-on experience in **Java, Dart, and Python**. I’m enthusiastic about creating practical solutions through technology and continuously expanding my skill set through real-world projects.
+
 
 ## 🎓 Education
 
